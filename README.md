@@ -72,4 +72,6 @@ print(VIANN.varScores)
  0.02274348 0.02686052 1.         0.6406668  0.80592436 0.6484351
  0.3022079  0.35150513 0.54522735 0.8139651  0.24560207 0.04865947]
 ```
+#### Note:
+seems some results on DeepNN are invalid. (see figures on code and compare to paper)
 
